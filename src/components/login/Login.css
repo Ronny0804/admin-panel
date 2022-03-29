@@ -1,0 +1,27 @@
+.card{
+    height:400px;
+}
+.card .row .icheck-primary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.signin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.signin button{
+    min-width: 250px !important;
+    margin-top: 10px;
+}
+
+.card .row p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
